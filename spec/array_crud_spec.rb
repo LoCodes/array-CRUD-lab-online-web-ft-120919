@@ -8,7 +8,7 @@ end
 
 describe "create_an_array" do 
   it "creates an array with four elements" do 
-    expect(create_an_array).to be_a(Array)
+   https://learn.co/tracks/online-software-engineering-structured/procedural-ruby/arrays/using-arrays-lab# expect(create_an_array).to be_a(Array)
     expect(create_an_array.size).to eq(4)
   end
 end
